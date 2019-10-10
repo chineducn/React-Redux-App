@@ -36,7 +36,7 @@ export default function CharacterList(props) {
   `
 
 
-  const rickandmortyCharacterApi = 'https://rickandmortyapi.com/api/character';
+  // const rickandmortyCharacterApi = 'https://rickandmortyapi.com/api/character';
 
   useEffect(() => {
 
